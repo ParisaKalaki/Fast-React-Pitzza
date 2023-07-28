@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-// prettier.config.js
 module.exports = {
-  plugins: [require("prettier-plugin-tailwindcss")],
+  plugins: [require('prettier-plugin-tailwindcss')],
+  singleQuote: true,
 };
